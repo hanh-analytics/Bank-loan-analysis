@@ -17,12 +17,21 @@ This project would not have been possible without their help!
 - Dynamic visualizations for better insights.
 - Fully documented SQL queries.
 
-## Tools and Technologies
+### Tools and Technologies
 - **SQLite**: For data management and queries.
 - **Tableau**: For data visualization.
 - **Excel**: Source of the dataset.
 
-## Installation and Setup Instructions
+### Key Visualizations:
+- **Bank Loan Report: Overview**: ![Bank Loan Report: Overview](visualizations/Overview.png)
+- **Bank Loan Report: Summary**: ![Sales Distribution](visualizations/Summary.png)
+- **Bank Loan Report: Details**:  ![Sales Distribution](visualizations/Details.png)
+
+### Detailed Report:
+For a detailed analysis, see the [Insights Report](reports/insights_report.md).
+
+
+### Installation and Setup Instructions
 Follow these steps to set up and run the Business Analytics project using **SQLite** and **Tableau**.
 ### 1. Clone the repository
 Start by cloning the repository to your local machine:
