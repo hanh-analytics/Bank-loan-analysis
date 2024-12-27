@@ -24,8 +24,8 @@ This project would not have been possible without their help!
 
 ### Key Visualizations:
 - **Bank Loan Report: Overview**: ![Bank Loan Report: Overview](visualizations/Overview.png)
-- **Bank Loan Report: Summary**: ![Sales Distribution](visualizations/Summary.png)
-- **Bank Loan Report: Details**:  ![Sales Distribution](visualizations/Details.png)
+- **Bank Loan Report: Summary**: ![Bank Loan Report: Summary](visualizations/Summary.png)
+- **Bank Loan Report: Details**:  ![Bank Loan Report: Details](visualizations/Details.png)
 
 ### Detailed Report:
 For a detailed analysis, see the [Insights Report](reports/insights_report.md).
