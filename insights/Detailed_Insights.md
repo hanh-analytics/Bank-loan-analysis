@@ -46,7 +46,7 @@ In this report, we will examine:
 
 ## 2. Detailed Insights:
 
- ### 2.1. Bank health: 
+ ### 2.1. Bank health and portfolio perfomance: 
 
  ![Big_Number](https://github.com/hanh-analytics/Bank-loan-analysis/blob/a1ecef8a4af1b06c177ab529c69cf6974093773b/visualization/Big_Number.jpg)
   
@@ -58,6 +58,25 @@ Furthermore, the liquidity ratio is above 100% since the total amount received (
 - Between the total funded amount, total amount received, and total loan applications, the total funded amount shows the financial worth of loans that are performing well (good loans) vs. those that are not (bad loans), which directly represents the portfolio's exposure. Regarding portfolio performance, the proportion of good loan status `Fully Paid` and `Current` (84.96% in total) exceeds that of `Charged Off` in the total funded amount, which typically indicates a healthy bank loan portfolio. Increased cash inflows from higher repayments boost liquidity and profitability, while lower charge-offs reduce losses and raise the yield on the entire portfolio. Strong underwriting guidelines and borrower selection are evident, supported by efficient monitoring and recovery procedures. Additionally, a portfolio that is primarily composed of `Current` and `Fully Paid` loans indicates reduced risk, which attracts investors and may result in better conditions for funding or refinancing options.
  
  Overall, the analysis shows that the bank's strong portfolio performance supports its stable health. The analysis of important indicators like the average DTI, liquidity ratio, and total funded amount by loan status shows that the bank is operating efficiently and is in a strong position to pay its debts.
+
+ ### 2.2: The Potential of higher-risks Borrowers:
+
+ Even while the bank's overall health appears to be solid, possible increases in debt could put the bank in trouble. I want to highlight two points to demonstrate that there may be a rise in the default risk:
+ 
+ ![Interest rate](https://github.com/hanh-analytics/Bank-loan-analysis/blob/a334401925af8cd1d8dd0e397779e0c136d07c36/visualization/Interest_rate_by_Purpose.jpg)
+
+ - First of all, we can see that the average rate for every purpose of lending money is higher than 10%, while loans like cars, education, house, home improvement, and renewable energy are most likely to range from around 5% to 7%. From the perspective of the lenders, a higher risk of default leads to a greater likelihood that some loans will eventually be charged off (written off as bad debt), especially in categories with higher interest rates. On the other hand, borrowers with higher rates are more likely to struggle with repayment, which can lead to missed payments, defaults, or the need to refinance. This puts more pressure on the borrower’s finances, further elevating the chance of default.
+
+![Total Loan Application by Purpose](https://github.com/hanh-analytics/Bank-loan-analysis/blob/a334401925af8cd1d8dd0e397779e0c136d07c36/visualization/Total_Application_by_Purpose.jpg)
+
+- It is necessary to consider the needs of the customers. The graph that illustrates the bank's lending purpose shows that _credit card_ and _debt consolidated_ are at the top of the list. A high volume of applications for credit card and debt consolidation loans may indicate that borrowers are having difficulty managing their existing debt burden, which could raise the likelihood of defaults if borrowers are unable to successfully manage their new debt levels.
+
+- The health of the bank could also be harmed because a significant concentration of loans for certain uses could put the bank at higher risk. An excessive amount of the bank's portfolio devoted to unsecured loans or high-risk clients may have an impact on the portfolio's overall stability.
+
+- As well as that, a credit card and aggregated debt are frequently linked to lower interest rates than other loan types, such as payday or personal loans. The _profitability_ of the loan portfolio may decline if the bank has a lot of these loans, particularly if a significant portion of the loans are being given at low interest rates.
+
+To sum up, the bank's portfolio indicates a tendency toward higher-risk borrowers, as demonstrated by the high demand for credit card refinance and debt consolidation loans and their high interest rates. These elements imply that a significant proportion of the clientele may already be experiencing financial difficulties, which raises the possibility of defaults. Although these loan options meet borrowers' urgent needs, they also highlight how crucial it is to put strong risk management plans into place and make sure the bank's lending and pricing policies appropriately offset the higher risk profile.
+ 
 
  
 
