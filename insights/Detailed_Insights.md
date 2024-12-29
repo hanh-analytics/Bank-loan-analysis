@@ -1,5 +1,5 @@
 # Detailed Insights 🔍 
-_This file tends to investigate deeper into insights I mentioned in [Execute Summary](insights/Executive_Summary.md). This report's goal is to examine the bank's loan portfolio with an emphasis on a number of important financial indicators, including debt-to-income (DTI) ratios, interest rates, loan amounts, and loan status. The objectives of this research are to evaluate possible risks, shed light on the portfolio's health, and make suggestions for better lending practices._
+_This file tends to investigate deeper into insights I mentioned in [Execute Summary](https://github.com/hanh-analytics/Bank-loan-analysis/blob/5f755523c9110c16462607b7c3539cc0034df64e/insights/Executive_Summary.md). This report's goal is to examine the bank's loan portfolio with an emphasis on a number of important financial indicators, including debt-to-income (DTI) ratios, interest rates, loan amounts, and loan status. The objectives of this research are to evaluate possible risks, shed light on the portfolio's health, and make suggestions for better lending practices._
 
 In this report, we will examine:
 
