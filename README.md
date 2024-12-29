@@ -23,9 +23,9 @@ This project would not have been possible without their help!
 - **Excel**: Source of the dataset.
 
 ### Key Visualizations:
-- **Bank Loan Report: Summary**: ![Summary](visualization/Dashboard_1.png)
-- **Bank Loan Report: Overview**: ![Overview](visualization/Dashboard_2.png)
-- **Bank Loan Report: Details**: ![Details](visualization/Dashboard_3.png)
+- **Bank Loan Report: Summary**: ![Summary](https://github.com/hanh-analytics/Bank-loan-analysis/blob/017f3527a8274a485740b24916f9781975148ae1/visualization/Summary.png)
+- **Bank Loan Report: Overview**: ![Overview](https://github.com/hanh-analytics/Bank-loan-analysis/blob/017f3527a8274a485740b24916f9781975148ae1/visualization/Overview.png)
+- **Bank Loan Report: Details**: ![Details](https://github.com/hanh-analytics/Bank-loan-analysis/blob/017f3527a8274a485740b24916f9781975148ae1/visualization/Details.png)
 
 ### Detailed Report:
 For a detailed analysis, see the [Insights Report](reports/insights_report.md).
