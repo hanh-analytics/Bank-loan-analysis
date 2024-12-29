@@ -23,9 +23,9 @@ This project would not have been possible without their help!
 - **Excel**: Source of the dataset.
 
 ### Key Visualizations:
-- **Bank Loan Report: Overview**
-- **Bank Loan Report: Summary**
-- **Bank Loan Report: Details**
+- **Bank Loan Report: Summary**: ![Summary](visualization/Dashboard_1.png)
+- **Bank Loan Report: Overview**: ![Overview](visualization/Dashboard_2.png)
+- **Bank Loan Report: Details**: ![Details](visualization/Dashboard_3.png)
 
 ### Detailed Report:
 For a detailed analysis, see the [Insights Report](reports/insights_report.md).
