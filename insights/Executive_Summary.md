@@ -14,9 +14,9 @@ _This report analyzes the performance of a bank's loan portfolio, focusing on bo
     
 - _**Higher Risk of Default**_
   
-  - **Interest rate**: The interest rate for every loan purpose is higher than 10% could indicate that the bank is targeting a higher-risk borrower segment, which is more likely to default.
+  - **Interest Rate**: The interest rate for every loan purpose is higher than 10% could indicate that the bank is targeting a higher-risk borrower segment, which is more likely to default.
     
-  - **Total Loan application by Purpose**: The majority of loan applications are for debt consolidation and credit card purposes, typically involving borrowers who may already be struggling with existing debt. The perceived risk of these loans often results in higher interest rates, but higher rates often burden borrowers, making it more difficult for them to repay, which may increase the likelihood of default.
+  - **Total Loan Application by Purpose**: The majority of loan applications are for debt consolidation and credit card purposes, typically involving borrowers who may already be struggling with existing debt. The perceived risk of these loans often results in higher interest rates, but higher rates often burden borrowers, making it more difficult for them to repay, which may increase the likelihood of default.
     
 ## Solution:
 
