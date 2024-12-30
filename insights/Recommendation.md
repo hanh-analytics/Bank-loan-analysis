@@ -38,7 +38,7 @@ _This file generally offers an overview of the bank's lending operations, portfo
 
   ![Total Applications by Purpose](https://github.com/hanh-analytics/Bank-loan-analysis/blob/a162589c4d41869d49e018576b5a838be60c04b6/visualization/Total_Application_by_Purpose.jpg)
   
-  - *The loan purpose review* is an essential component of credit risk assessment. Through an analysis of the primary goals of loans, such as `credit card` and `debt consolidation`, the bank can spot possible hazards. Since these loans show that borrowers are utilizing credit to manage their current debt, which may be a symptom of underlying financial instability, they are frequently linked to financial trouble. It's possible that neither the borrower nor the bank would benefit financially in the long run.
+  - The *loan purpose review* is an essential component of credit risk assessment. Through an analysis of the primary goals of loans, such as `credit card` and `debt consolidation`, the bank can spot possible hazards. Since these loans show that borrowers are utilizing credit to manage their current debt, which may be a symptom of underlying financial instability, they are frequently linked to financial trouble. It's possible that neither the borrower nor the bank would benefit financially in the long run.
     
   - The bank should think about providing *flexible repayment options* to help borrowers better manage their responsibilities and reduce the likelihood of defaults. In addition, the bank might diversify its loan portfolio by emphasizing credit segments that provide long-term financial stability for both the borrower and the bank, including `educational` or `home improvement`, in order to lessen its reliance on high-risk loan categories.
 
