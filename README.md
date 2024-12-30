@@ -154,7 +154,7 @@ FROM bank_loan
 If you have an existing `.twb` (Tableau Workbook) file, you can open it directly:
 
 ```bash
-open visualizations/bank_loan_report.twb
+open https://github.com/hanh-analytics/Bank-loan-analysis/blob/947d3b3125ec9fde51bb4d36ff32b96e3fe886d4/visualization/Bank_Loan_Report.twbx
 ```
 
 
