@@ -17,6 +17,13 @@ _This file generally offers an overview of the bank's lending operations, portfo
   The bank is at high risk of default even if it has good indications like low debt-to-income ratios (DTI), strong liquidity, and positive loan status metrics that show good bank health and portfolio performance. This risk results from continuously high interest rates (over 10%) for all loan purposes as well as a significant percentage of all loan applications falling into high-risk categories like credit card and debt consolidation loans. The stability of the portfolio may be threatened by this imbalance, which could result in higher borrower distress and default possibilities.
 
 ## 3. Recommended Actions
+![Total Funded Amount by Grade](https://github.com/hanh-analytics/Bank-loan-analysis/blob/a768cc6e4da037667f009b375cd361e4a874b038/visualization/Total_Funded_Amount_By_Grade.jpg)
+
+**Broaden loan grade offerings**:
+  - Currently, a significant portion of the bank’s loans is concentrated in Grades B with a slightly lower proportion of A and C. While these grades provide substantial returns, they also expose the bank to increased default risk. Borrowers in Grade B typically have moderate creditworthiness. While they are not as risky as Grade C borrowers, they are not as reliable as Grade A borrowers.
+  - A large volume of loans in Grade B means the bank is exposed to the default behavior of borrowers with similar risk profiles. If economic conditions worsen, this group could collectively face repayment challenges, amplifying losses. Grade A loans are considered the least risky and contribute to portfolio stability. A lower proportion of these loans reduces the bank's buffer against losses from riskier grades.
+  - To reduce concentration risk, the bank should consider expanding its loan offerings to include more loans in Grades A and D, which can provide more stability and spread risk across different borrower profiles.
+
 
 ## 4. Implementation Plan
 Timeline: Define short-term, medium-term, and long-term actions.
