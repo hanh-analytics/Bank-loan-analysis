@@ -13,13 +13,14 @@ This notebook contains the complete process for building the loan default predic
 - **Model Evaluation**: Evaluating the model performance using classification metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
 - **Hyperparameter Tuning**: If applicable, this section involves tuning the model to improve performance (e.g., GridSearchCV).
 
-### 2. model_interpretation_lime.ipynb
+### 2. model_interpretation_lime.md
 This notebook focuses on interpreting the model’s predictions using LIME (Local Interpretable Model-Agnostic Explanations).
 
 Key steps covered:
 
 - **LIME Explainer**: Using LIME to explain individual predictions by approximating the model locally around the prediction.
-- **LIME Visualization**: Visualizing which features had the most significant impact on a specific loan prediction.
+- 
+- **LIME Visualization**: Visualizing which features had the most significant impact on a specific loan prediction. For the images, please visit the folder `Plot_images`.
 
 
 ## Running the Notebooks
