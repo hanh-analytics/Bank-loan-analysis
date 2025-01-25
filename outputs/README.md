@@ -14,7 +14,7 @@ This notebook contains the complete process for building the loan default predic
 - **Hyperparameter Tuning**: If applicable, this section involves tuning the model to improve performance (e.g., GridSearchCV).
 
 ### 2. model_interpretation_lime.md
-This notebook focuses on interpreting the model’s predictions using LIME (Local Interpretable Model-Agnostic Explanations).
+This report focuses on interpreting the model’s predictions using LIME (Local Interpretable Model-Agnostic Explanations).
 
 Key steps covered:
 
